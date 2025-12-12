@@ -1,0 +1,10 @@
+main.js?ts=1765564703087:1155 Download the React DevTools for a better development experience: https://reactjs.org/link/react-devtools
+websocket.js:46 [HMR] connected
+hot-dev-client.js:197 [Fast Refresh] rebuilding
+hot-dev-client.js:166 [Fast Refresh] done in 233ms
+hot-dev-client.js:197 [Fast Refresh] rebuilding
+hot-dev-client.js:166 [Fast Refresh] done in 575ms
+[id].js:45 PUT payload: {title: 'new', description: 'task1', completed: true}
+[id].js:47 Save success: {data: {…}, status: 200, statusText: 'OK', headers: AxiosHeaders, config: {…}, …}
+hot-dev-client.js:197 [Fast Refresh] rebuilding
+hot-dev-client.js:166 [Fast Refresh] done in 237ms
